@@ -15,6 +15,10 @@ ThirukkuralGPT is a simple implementation of a Bigram Language Model using PyTor
 - Python 3.10+
 - PyTorch 2.0+
 
+## GPU Requirement
+
+- This model had 42M parameters, and was trained on a RTX 4060, and it barely took just 30 to 40 mins to train.
+
 ## Setup
 
 1. **Install Dependencies**: Make sure to install the required packages. You can do this using pip:
