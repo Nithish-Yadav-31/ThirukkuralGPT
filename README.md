@@ -45,6 +45,24 @@ After training, you can generate text using the trained model by running:
 python generate.py
 ```
 
+
+## Sample output would look like
+
+```bash
+
+உவப்பத்தடின் ஒப்பம் கழியில் பாவாயின் மாற்றார்க்கு
+இனனிலனொடு ஐந்தும் இடத்து.
+
+வினைபகை என்றிரண்டின் எச்சம் நினையுங்கால்
+தீயெச்சம் போலத் தெறும்.
+
+பிறன்பொருளைக் கண்ணார் அறிவறிந்து
+வேண்டுப வேட்பச் சொலல்.
+
+பழுத்தும் கொளல்வேண்டும் மன்ற அடுத்தும்
+பிறன்போல நிற்கும் பழி.
+```
+
 The generated text will be saved to `output.txt` and also printed to the console.
 
 ## Configuration
